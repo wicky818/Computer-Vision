@@ -1,2 +1,5 @@
 # Computer-Vision
-Computer Vision Projects
+
+The computer vision problem with the CIFAR-10 dataset is a classic dataset for new machine learning enthusiasts to explore how neural networks work. The dataset contains a total of 60,000 color images, each image presented as a 32 by 32 pixels matrix. Each pixel is represented by an integer ranging from 0 to 255 in a particular color plane within the RGB (Red, Green, and Blue) color model.  Zero represents no color and 255 represents very intense coloration.
+	This research experiments with different structures of neural networks and shows the different performance metrics for these structures. The results show the drastic model performance improvements with CNNs compared to DNNs. 
+	These experiments also show the performance improvement of utilizing ResNet, which is a short form for Residual Network. Over the years, image recognition and classification have made a series of breakthroughs with Residual Networks. This research will explore the performance of ResNet50, which is a 50-layer deep Residual Network.
